@@ -3,7 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  ["Now or Never", "What Lovers Do", "No Tears Left To Cry", "Eastside"]
+  ["Now or Never", "What Lovers Do", "No Tears Left To Cry", "Heaven is a Place on Earth"]
 end
 
 def add_element_to_end_of_array(array, element)
